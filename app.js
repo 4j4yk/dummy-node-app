@@ -1,2 +1,3 @@
 // app.js
-console.log("Starting dummy nodejs app");
+console.log(" ** Starting dummy nodejs app ** ");
+
